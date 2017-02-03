@@ -1,0 +1,52 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+body {
+    background: #ECEFF1;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+a {
+    color: rgb(3, 155, 229);
+}
+
+.rightSide
+{
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+  float: right;
+}
+
+#weather
+{
+  padding-left: 5%;
+}
+
+.leftSide
+{
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+}
+
+#rainCloud
+{
+  width: 50%;
+}
+
+#stackOverflow
+{
+  width: 50%;
+}
+
+li{
+  text-align: left;
+  padding-left: 30%;
+  list-style: none;
+}
+
+/*https://www.mikeafford.com/store/store-images/ms02_example_heavy_rain_showers.png
+http://veithen.github.io/images/icon-stackoverflow.svg*/
